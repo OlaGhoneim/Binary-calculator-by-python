@@ -1,6 +1,5 @@
-#Zyad Mohamed Ahmed 20230159
-#Abdelrahman Essam Abdelrahman 20230210
-#Ola Ghoneim Hammad 20231232
+
+#Author :Ola Ghoneim Hammad
 
 
 # Function for one's complement operation
